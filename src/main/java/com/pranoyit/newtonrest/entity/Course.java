@@ -1,6 +1,11 @@
 package com.pranoyit.newtonrest.entity;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Course {
+    @Id
     private long courseId;
     private String courseTitle;
     private String description;
