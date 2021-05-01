@@ -54,9 +54,9 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
 					<!--suppress UnresolvedMavenProperty -->
-					<source>${java-version}</source>
+					<source>16</source>
 					<!--suppress UnresolvedMavenProperty -->
-					<target>${java-version}</target>
+					<target>16</target>
 					<verbose>true</verbose>
                 </configuration>
             </plugin>
