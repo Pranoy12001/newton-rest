@@ -1,5 +1,5 @@
 # newton-rest
-It is Student Management System backend.
+It is Student Management System backend.<br>
 Technology Used:
 2. Spring Boot
 3. MySql
